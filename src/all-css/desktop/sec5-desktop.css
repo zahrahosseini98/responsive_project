@@ -1,0 +1,47 @@
+.sec5 {
+  width: 100%;
+  margin-top: 71px;
+  margin-bottom: 30px;
+  display: flex;
+
+}
+.s5-right {
+    max-width: 47%;
+
+  & img {
+    max-width: 100%;
+    min-width: 489px;
+    object-fit: cover;
+  }
+}
+.s5-left{
+  width: 57%;
+  display:  flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+    background-color: rgba(119, 150, 175, 0.2);
+    padding-bottom: 9px;
+
+  .test{
+   
+  background-color: aqua;
+  .s5-p1 {
+ 
+  font-size: 45px;
+}
+  .s5-p2 {
+  max-width: 651px;
+  font-size: 23px;
+  
+}
+.s5-btn{
+    width: 145px;
+    height: 51px;
+    background-color: transparent;
+    margin-top: 45px;
+}
+}
+}
+
+

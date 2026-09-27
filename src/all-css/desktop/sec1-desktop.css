@@ -1,0 +1,50 @@
+.wrapper{
+    width: 100%;
+}
+
+.sec1{
+    width: 100%;
+    height: 833px;
+    background-image: 
+    linear-gradient(
+        to right, rgba(0, 0, 0,0.6), rgba(0, 0, 0, 0)
+    ),
+    url(../../assets/images/17c9318c8f11b6e6fe2d75a9481922d556d4227e.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 115px;
+    overflow: hidden;
+}
+.s1-data{
+    width: 675px;
+    color: white;
+    margin: 371px 773px 198px 64px;
+    .s1-title{
+        font-family: garamond;
+        font-weight: 400;
+        font-size: 35px;
+    }
+    .s1-p1{
+        margin-top: 10px;
+        padding-left: 32px;
+        font-family: montserrat;
+    }
+    .s1-p2{
+        padding-left: 32px;
+    }
+    .s1-btn{
+        margin-top: 38px;
+        padding-left: 32px;
+    }
+}
+
+.shop-now{
+    color: rgba(225, 219, 215, 1);
+    padding: 17.5px 21.5px;
+    background-color: transparent;
+    border: unset;
+    border: 1px solid;
+    border-color: var(--gray);
+    font-family: montserrat;
+
+}

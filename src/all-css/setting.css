@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: karla;
+    src: url(../../public/karla/Karla-Regular.eot);
+    src: url(../../public/karla/Karla-Regular.ttf);
+    src: url(../../public/karla/Karla-Regular.woff);
+    src: url(../../public/karla/Karla-Regular.woff2);
+}
+@font-face {
+    font-family: garamond;
+    src: url(../../public/garamond/CormorantGaramond-Regular.eot);
+    src: url(../../public/garamond/CormorantGaramond-Regular.ttf);
+    src: url(../../public/garamond/CormorantGaramond-Regular.woff);
+    src: url(../../public/garamond/CormorantGaramond-Regular.woff2);
+}
+@font-face {
+    font-family: montserrat;
+    src: url(../../public/montserrat/Montserrat-Regular.eot);
+    src: url(../../public/montserrat/Montserrat-Regular.ttf);
+    src: url(../../public/montserrat/Montserrat-Regular.woff);
+    src: url(../../public/montserrat/Montserrat-Regular.woff2);
+}
+
+:root{
+    --background-color: rgba(12, 6, 6, 1);
+    --dark-100: rgba(28, 27, 23, 1);
+    --gray: rgba(255, 255, 255, 0.67);
+    --light-gray: rgba(255, 255, 255, 0.66);
+    --white: rgba(255, 255, 255, 1);
+
+
+}
