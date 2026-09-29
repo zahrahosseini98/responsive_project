@@ -1,0 +1,20 @@
+.sec6{
+  .s6-left {
+  width: 427px;
+  height: 484px;
+}
+.s6-right {
+  width: calc(100% - 600px);
+  margin-left: 42px;
+  margin-right: 53px;
+  margin-bottom: 88px;
+}
+.s6-p2,
+.s6-p3 {
+  font-size: 16px;
+}
+.s6-btn {
+  margin-top: 33px;
+}
+
+}

@@ -54,9 +54,7 @@
   display: flex;
   gap: 71px;
   font-family: karla;
-
-  /* margin-top: 72px; */
-  margin-bottom: 29px;
+  margin-bottom: 5px;
 }
 .txt-box1 {
   width: 176px;

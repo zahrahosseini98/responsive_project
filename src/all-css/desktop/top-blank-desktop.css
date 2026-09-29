@@ -4,4 +4,5 @@
     background-color: var(--background-color);
     position: fixed;
     top: -11px;
+    z-index: 999;
 }

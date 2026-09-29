@@ -5,12 +5,12 @@
   position: fixed;
   top: 32px;
   font-family: karla;
+  z-index: 999;
 }
 .in-header {
   width: calc(100% - 200px);
   height: 100%;
   margin: 0 auto;
-  /* background-color: var(--dark-100); */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -55,4 +55,10 @@
       }
     }
   }
+}
+.burgur{
+  display: none;
+}
+.search-box2{
+  display: none;
 }

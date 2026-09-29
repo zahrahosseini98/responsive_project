@@ -1,9 +1,7 @@
 .sec3 {
-  width: calc(100% - 199px);
-  margin-left: 106px;
+  margin-top: 44px;
+  width: 100%;
   height: 337px;
-  display: flex;
-  gap: 17px;
   .cat {
     width: 247px;
     height: 337px;
@@ -27,4 +25,10 @@
         font-family: garamond;
     }
   }
+}
+
+.cat-container{
+  display: flex;
+  gap: 17px;
+  justify-content: center;
 }

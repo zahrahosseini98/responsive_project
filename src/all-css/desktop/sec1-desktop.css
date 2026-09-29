@@ -31,6 +31,7 @@
     }
     .s1-p2{
         padding-left: 32px;
+        font-family: montserrat;
     }
     .s1-btn{
         margin-top: 38px;
@@ -46,5 +47,6 @@
     border: 1px solid;
     border-color: var(--gray);
     font-family: montserrat;
+    font-size: 18px;
 
 }
