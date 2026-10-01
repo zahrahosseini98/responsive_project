@@ -1,0 +1,22 @@
+.sec3 {
+  .cat {
+    display: none !important;
+  }
+  .names-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 24px;
+    font-family: garamond;
+    color: rgba(112, 91, 79, 1);
+    border-left: 1px solid;
+    border-right: 1px solid;
+    margin-top: 80px;
+    & p {
+      margin: 0px 75px;
+      padding-bottom: 10px;
+    }
+  }
+}

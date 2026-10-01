@@ -1,0 +1,9 @@
+.search-box2,
+.like,
+.bag,
+.person {
+  display: none;
+}
+.header .search-icon {
+  display: block;
+}

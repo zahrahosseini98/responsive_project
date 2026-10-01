@@ -1,17 +1,16 @@
-.sec2{
-    margin-top: 17px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 3px;
-    .s2-title{
-        font-family: garamond;
-        font-size: 20px;
-    }
-    .s2-text{
-        font-family: garamond;
-        font-style: italic;
-    }
-    
+.sec2 {
+  margin-top: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  .s2-title {
+    font-family: garamond;
+    font-size: 20px;
+  }
+  .s2-text {
+    font-family: garamond;
+    font-style: italic;
+  }
 }

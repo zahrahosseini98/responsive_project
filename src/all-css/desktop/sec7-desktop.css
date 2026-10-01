@@ -1,18 +1,17 @@
-.sec7{
-    width: 100%;
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 3px;
-    .s7-title{
-        font-family: garamond;
-        font-size: 20px;
-    }
-    .s7-text{
-        font-family: garamond;
-        font-style: italic;
-    }
-    
+.sec7 {
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  .s7-title {
+    font-family: garamond;
+    font-size: 20px;
+  }
+  .s7-text {
+    font-family: garamond;
+    font-style: italic;
+  }
 }

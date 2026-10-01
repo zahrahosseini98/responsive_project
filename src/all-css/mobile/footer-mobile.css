@@ -1,0 +1,44 @@
+.footer {
+  height: auto;
+}
+.footer .footer-in {
+  height: calc(100% - 18px);
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+.footer-right-top {
+  display: block;
+  & img {
+    display: inline-block;
+  }
+}
+.footer-right-bottom {
+  width: auto !important;
+  flex-direction: row !important;
+  margin-top: 0;
+}
+.footer-left-bottom {
+  width: auto !important;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px !important;
+  border-top: 2px solid;
+  padding: 30px 20px;
+
+}
+.footer-left{
+  gap: 70px;
+
+}
+ .footer .footer-left .footer-left-bottom .txt-box2{
+  width: 100% !important;
+  justify-content: space-around;
+  font-size: 8px !important;
+}
+.footer .footer-left .footer-left-top{
+  grid-template-columns: repeat(2, 1fr) !important;
+  width: 100% !important;
+  gap: 50px;
+  column-gap: 100px;
+}

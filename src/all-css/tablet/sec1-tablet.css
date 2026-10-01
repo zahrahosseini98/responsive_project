@@ -1,9 +1,17 @@
-.s1-title{
-    font-size: 81px;
+.s1-title {
+  font-size: 81px;
 }
-.s1-p1, .s1-p2{
-    font-size: 30px;
+.s1-p1,
+.s1-p2 {
+  font-size: 30px;
 }
-.s1-data{
-    width: 750px;
+.s1-data {
+  width: 750px;
+  max-width: calc(100% - 64px);
+}
+.s1-title,
+.s1-p1,
+.s1-p2,
+.s1-btn {
+  padding-left: 0px !important;
 }

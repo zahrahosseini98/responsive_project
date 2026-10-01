@@ -1,0 +1,17 @@
+.sec4 {
+  .s4-left {
+    display: none;
+  }
+  background-image: url(../../assets/images/47d45c1379b1c045cc5c764170460e05d942d190.jpg);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  .s4-right {
+    width: 85%;
+    padding-top: 200px;
+    padding-bottom: 60px;
+    .s4-p1 {
+      display: none;
+    }
+  }
+}

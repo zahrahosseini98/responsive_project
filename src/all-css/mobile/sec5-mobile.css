@@ -1,0 +1,22 @@
+.sec5 {
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  .s5-right {
+    overflow-y: hidden;
+    width: 100%;
+    & img {
+      height: calc(100% + 180px);
+      object-position: bottom;
+    }
+  }
+  .s5-left {
+    margin-bottom: 50px;
+    min-width: 0px;
+    max-width: none;
+    width: 100%;
+    .s5-btn {
+      margin-top: 25px !important;
+    }
+  }
+}

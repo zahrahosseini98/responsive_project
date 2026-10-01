@@ -1,23 +1,23 @@
 .footer {
   margin-top: 66px;
-  .footer-right-top {
-    display: none;
-    & img {
-      display: none;
+  .footer-in {
+    margin-top: 0px;
+    .footer-left-bottom .txt-box1 {
+      font-size: 11px !important;
+    }
+    .footer-left-bottom .txt-box2 {
+      font-size: 10px !important;
     }
   }
-  .footer-right-bottom {
-    flex-direction: column;
-    margin-top: 65px;
-  }
-  .footer-left-top {
-    margin-left: 60px;
-  }
-
-  .footer-left-bottom .txt-box1 {
-    margin-left: 60px;
+}
+.footer-right-top {
+  display: none;
+  & img {
+    display: none;
   }
 }
-.footer-right {
-  margin-left: 70px;
+.footer-right-bottom {
+  width: 20px !important;
+  flex-direction: column;
+  margin-top: 65px;
 }

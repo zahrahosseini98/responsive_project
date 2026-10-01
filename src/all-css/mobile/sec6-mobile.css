@@ -1,0 +1,16 @@
+.sec6 {
+  .s6-left {
+    display: none;
+  }
+  background-image: url(../../assets/images/f2a80faf992b49c78e89717b6432b7a9cb8bb4d1.jpg);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  transform: scaleX(-1);
+  .s6-right {
+    width: 85%;
+    padding-top: 200px;
+    padding-bottom: 60px;
+    transform: scaleX(-1);
+  }
+}

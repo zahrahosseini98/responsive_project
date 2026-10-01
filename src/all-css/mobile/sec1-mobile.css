@@ -1,0 +1,12 @@
+.sec1 {
+  .s1-data {
+    width: auto;
+  }
+  .s1-title {
+    font-size: 35px;
+  }
+  .s1-p1,
+  .s1-p2 {
+    font-size: 18px;
+  }
+}
